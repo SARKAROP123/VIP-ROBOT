@@ -86,7 +86,7 @@ PM_START_TEXT = """
 ╚═════════════════❍⊱❁۪۪
       ╔═════ஜ۩۞۩ஜ════╗
 
-       ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗣 𝗕𝗢𝗬♨️
+          ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 सरकार♨️
     
       ╚═════ஜ۩۞۩ஜ════╝
 
@@ -94,7 +94,7 @@ PM_START_TEXT = """
 
 💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ⚡ 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠-𝐆𝐫𝐨𝐮𝐩 &   𝐏𝐥𝐚𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷
 
-☆...................τɦє νเρ Βσყ..................☆ 
+☆..................सरकार...................☆ 
 """
 
 buttons = [
@@ -109,8 +109,8 @@ buttons = [
         InlineKeyboardButton(text="🍷𝐌𝐔𝐒𝐈𝐂🍷", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="🌷𝐆𝐑𝐎𝐔𝐏🌷", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="🏡𝐎𝐅𝐅𝐈𝐂𝐄🏡", url=f"https://t.me/VIP_CREATORS"),
+        InlineKeyboardButton(text="🌷𝐆𝐑𝐎𝐔𝐏🌷", url=f"https://t.me/TKS_CHAT_OFFICIAL"),
+        InlineKeyboardButton(text="🏡𝐎𝐅𝐅𝐈𝐂𝐄🏡", url=f"https://t.me/TKS_COME"),
     ],
     [
         InlineKeyboardButton(text="🌱𝐒𝐎𝐔𝐑𝐂𝐄🌱", callback_data="mukesh_"),
@@ -405,7 +405,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/THE_VIP_BOY"
+                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/lll_SARKAR_lll"
                         ),
                         InlineKeyboardButton(
                             text="🎄𝐑𝐄𝐏𝐎🎄", 
@@ -435,7 +435,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
     if query.data == "Music_":
         query.message.edit_text(
             text=f"""
- **👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n☆............𝙱𝚈 » [νเρ Βσყ](https://t.me/the_vip_boy)............☆ 💞** 
+ **👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n☆............𝙱𝚈 » [सरकार](https://t.me/lll_SARKAR_lll)............☆ 💞** 
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -1115,7 +1115,7 @@ def main():
 
 ╔═════ஜ۩۞۩ஜ═════╗
 
-  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗩𝗜𝗣 𝗕𝗢𝗬](https://t.me/the_vip_boy)♨️
+  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [सरकार](https://t.me/lll_SARKAR_lll)♨️
   
 ╚═════ஜ۩۞۩ஜ═════╝
 """,
