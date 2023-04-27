@@ -100,17 +100,17 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="☆ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ☆",
+            text="💥 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 💥",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
         InlineKeyboardButton(text="💥𝐇𝐄𝐋𝐏💥", callback_data="help_back"),
-        InlineKeyboardButton(text="🍷𝐌𝐔𝐒𝐈𝐂🍷", callback_data="Music_"),
+        InlineKeyboardButton(text="💥𝐌𝐔𝐒𝐈𝐂💥", callback_data="Music_"),
     ],
     [
         InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/TKS_CHAT_OFFICIAL"),
-        InlineKeyboardButton(text="💥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘💥", url=f"https://t.me/TKS_COME"),
+        InlineKeyboardButton(text="💥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘💥", url=f"https://t.me/TKS_CHAT_OFFICIAL"),
     ],
     [
         InlineKeyboardButton(text="💥𝐎𝐖𝐍𝐄𝐑💥", callback_data="mukesh_"),
@@ -237,11 +237,11 @@ def start(update: Update, context: CallbackContext):
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠.")
+            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐛𝐚𝐛𝐲💋.")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠..")
+            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐛𝐚𝐛𝐲💋..")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠... ")
+            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐛𝐚𝐛𝐲💋... ")
             time.sleep(0.4)
             lol.delete()
             
@@ -405,7 +405,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/lll_SARKAR_lll"
+                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/llll_SARKAR_llll"
                         ),
                         InlineKeyboardButton(
                             text="🍒𝐉𝐎𝐈𝐍 𝐁𝐀𝐁𝐘🍒", 
@@ -585,7 +585,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -614,7 +614,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 ᴇxᴀᴍᴩʟᴇ: /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -637,7 +637,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇʀ ᴜsᴇʀs.
 
-☆.......... [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆.......... [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -667,7 +667,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /shayri , /love , /gf , /bf : 𝙶𝙴𝚃 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙾𝚁 𝙲𝙾𝚄𝙿𝙻𝙴𝚂
 
-☆...........[𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆...........[𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -690,7 +690,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /play : sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ғʀᴏᴍ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀ.
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -711,7 +711,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /activevideo : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs ᴏɴ ʙᴏᴛ.
 /autoend [ᴇɴᴀʙʟᴇ|ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ sᴛʀᴇᴀᴍ ᴀᴜᴛᴏ ᴇɴᴅ ɪғ ɴᴏ ᴏɴᴇ ɪs ʟɪsᴛᴇɴɪɴɢ.
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -738,7 +738,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -774,7 +774,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /logs [ɴᴜᴍʙᴇʀ ᴏғ ʟɪɴᴇs] : ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʙᴏᴛ [ᴅᴇғᴀᴜʟᴛ ᴠᴀʟᴜᴇ ɪs 100 ʟɪɴᴇs]
 
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -801,7 +801,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /sudolist : sʜᴏᴡs ᴛʜᴇ sᴜᴅᴏ ᴜsᴇʀs ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ.
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........""",
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -1109,13 +1109,13 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://te.legra.ph/file/731f6b26b2ef1501e35c7.mp4",
+                animation="https://graph.org/file/f943e9cbe391a7b073ed7.mp4",
                 caption=f"""
 {dispatcher.bot.first_name}
 
 ╔═════ஜ۩۞۩ஜ═════╗
 
- ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)♨️
+ ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)♨️
   
 ╚═════ஜ۩۞۩ஜ═════╝
 """,
