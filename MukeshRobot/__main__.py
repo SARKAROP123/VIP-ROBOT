@@ -90,11 +90,10 @@ PM_START_TEXT = """
     
       ╚═════ஜ۩۞۩ஜ════╝
 
-🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 ♨️ 𝐀𝐧𝐝 🍒 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐆𝐫𝐨𝐮𝐩𝐬  🎸 𝐀𝐧𝐝 🏓  𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎻
+🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 ♨️ 𝐀𝐧𝐝 🍒 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐆𝐫𝐨𝐮𝐩𝐬 🍷𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩🍷
+┏━━━━━━━━━━━━━━━━━┓┣★ 🍒𝐎𝐖𝐍𝐄𝐑🍒 : [🔥︻┻┳═सरकार🔥](https://t.me/llll_SARKAR_llll)┣★  🍒𝐔𝐏𝐃𝐀𝐓𝐄🍒 » : [🍒𝐂𝐎𝐌𝐄 🍒](https://t.me/TKS_JOIN)┣★ 🍒𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🍒 » : [🍒𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🍒](https://t.me/TKS_CHAT_OFFICIAL)┣★ 🍒𝐍𝐀𝐌𝐄 𝐁𝐈𝐎🍒𓂸 » : [🍒𝐍𝐀𝐌𝐄🍒](https://t.me/NAME_STYLE_TG )┗━━━━━━━━━━━━━━━━━┛
 
-💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ⚡ 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠-𝐆𝐫𝐨𝐮𝐩 &   𝐏𝐥𝐚𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷
-
-☆..................🍷𝗦𝗔𝗥𝗞𝗔𝗥🍷...................☆ 
+☆..................🍷𝐏𝐎𝐖𝐄𝐑🍷...................☆ 
 """
 
 buttons = [
@@ -113,7 +112,7 @@ buttons = [
         InlineKeyboardButton(text="💥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘💥", url=f"https://t.me/TKS_CHAT_OFFICIAL"),
     ],
     [
-        InlineKeyboardButton(text="💥𝐎𝐖𝐍𝐄𝐑💥", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🍒𝐎𝐖𝐍𝐄𝐑🍒", callback_data="mukesh_"),
     ],
 ]
 
@@ -237,11 +236,11 @@ def start(update: Update, context: CallbackContext):
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐛𝐚𝐛𝐲💋.")
+            lol.edit_text("🍒🇮𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️.")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐛𝐚𝐛𝐲💋..")
+            lol.edit_text("🍒🇮 𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️..")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐛𝐚𝐛𝐲💋... ")
+            lol.edit_text("🍒𝐒𝐀𝐑𝐊𝐀𝐑 𝐁𝐎𝐓 𝐎𝐍🍒... ")
             time.sleep(0.4)
             lol.delete()
             
