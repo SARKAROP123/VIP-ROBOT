@@ -400,7 +400,7 @@ sᴏᴍᴇᴛɪᴍᴇs, ʏᴏᴜ ᴊᴜsᴛ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ sᴏᴍ
 *ᴀᴅᴍɪɴ ᴏɴʟʏ:*
  ❍ /ᴀʟʟᴏᴡᴄᴏɴɴᴇᴄᴛ <ʏᴇs/ɴᴏ>: ᴀʟʟᴏᴡ ᴀ ᴜsᴇʀ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ᴀ ᴄʜᴀᴛ
  
- ☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+ ☆............𝐁𝐲 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll).........✯
 """
 
 CONNECT_CHAT_HANDLER = CommandHandler("connect", connect_chat, pass_args=True)
