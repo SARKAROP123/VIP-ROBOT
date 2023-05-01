@@ -145,7 +145,7 @@ __help__ = """
 /quote :- ᴡʀɪᴛᴇ ǫᴜᴏᴛᴇs
 /animequotes :- ᴡʀɪᴛᴇ ᴀɴɪᴍᴇǫᴜᴏᴛᴇs
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝐁𝐲 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll).........✯
  """
 
 __command_list__ = [
