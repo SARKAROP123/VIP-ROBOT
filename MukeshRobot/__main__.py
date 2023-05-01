@@ -90,7 +90,10 @@ PM_START_TEXT = """
     
       ╚═════ஜ۩۞۩ஜ════╝
 
-💥𝐈 𝐀𝐦📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝🍒 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐳𝐧𝐭 ♨️ 𝐀𝐧𝐝 🍒 𝐕𝐂🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7🌀𝐀𝐜𝐭𝐢𝐯𝐞 »🍒𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐆𝐫𝐨𝐮𝐩𝐬 🍷𝐀𝐝𝐝 𝐦𝐞 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩🍷
+💥💥 𝐇𝐞𝐥𝐥𝐨 🍒𝐈 𝐚𝐦💿𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭🍷𝐇𝐢𝐠𝐡👅 𝐐𝐮𝐚𝐥𝐢𝐭𝐲💫💥𝐍𝐨🥀𝐋𝐚𝐠💋𝐕𝐂🥃𝐌𝐮𝐬𝐢𝐜🎶𝐏𝐥𝐚𝐲𝐞𝐫🍒𝐀𝐧𝐝🍷𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭🍷 𝐁𝐨𝐭.🚩💞 𝐉𝐮𝐬𝐭 ✨
+𝐀𝐝𝐝 🍷𝐌𝐞🍒 » 𝐓𝐨✨𝐘𝐨𝐮𝐫❣️ 𝐆𝐫𝐨𝐮𝐩💯 
+🍷𝐀𝐧𝐝🕊️
+𝐄𝐧𝐣𝐨𝐲 🦋𝐒𝐮𝐩𝐞𝐫🍎𝐐𝐮𝐚𝐥𝐢𝐭𝐲🍺❥︎𝐌𝐮𝐬𝐢𝐜🧊.
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★𝐎𝐖𝐍𝐄𝐑🍒: [🔥︻┻┳═सरकार🔥](https://t.me/llll_SARKAR_llll)
 ┣★𝐔𝐏𝐃𝐀𝐓𝐄🍒»: [𝐉𝐎𝐈𝐍🍒](https://t.me/TKS_JOIN)
@@ -239,11 +242,11 @@ def start(update: Update, context: CallbackContext):
             lol = update.effective_message.reply_text(
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
-            time.sleep(0.20)
+            time.sleep(0.30)
             lol.edit_text("🍒🇮𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️.")
-            time.sleep(0.20)
+            time.sleep(0.30)
             lol.edit_text("🍒🇮 𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️..")
-            time.sleep(0.25)
+            time.sleep(0.40)
             lol.edit_text("🍒𝐒𝐀𝐑𝐊𝐀𝐑 𝐁𝐎𝐓 𝐎𝐍🍒... ")
             time.sleep(0.4)
             lol.delete()
