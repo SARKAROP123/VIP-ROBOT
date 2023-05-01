@@ -1116,7 +1116,7 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://graph.org/file/f943e9cbe391a7b073ed7.mp4",
+                animation="https://graph.org/file/a92f0df18d675fdf7d252.mp4",
                 caption=f"""
 {dispatcher.bot.first_name}
 
