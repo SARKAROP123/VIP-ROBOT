@@ -90,15 +90,16 @@ PM_START_TEXT = """
     
       ╚═════ஜ۩۞۩ஜ════╝
 
-💥💥 𝐇𝐞𝐥𝐥𝐨 🍒𝐈 𝐚𝐦💿𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭🍷𝐇𝐢𝐠𝐡👅 𝐐𝐮𝐚𝐥𝐢𝐭𝐲💫💥𝐍𝐨🥀𝐋𝐚𝐠💋𝐕𝐂🥃𝐌𝐮𝐬𝐢𝐜🎶𝐏𝐥𝐚𝐲𝐞𝐫🍒𝐀𝐧𝐝🍷𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭🍷 𝐁𝐨𝐭.🚩💞 𝐉𝐮𝐬𝐭 ✨
-𝐀𝐝𝐝 🍷𝐌𝐞🍒 » 𝐓𝐨✨𝐘𝐨𝐮𝐫❣️ 𝐆𝐫𝐨𝐮𝐩💯 
-🍷𝐀𝐧𝐝🕊️
-𝐄𝐧𝐣𝐨𝐲 🦋𝐒𝐮𝐩𝐞𝐫🍎𝐐𝐮𝐚𝐥𝐢𝐭𝐲🍺❥︎𝐌𝐮𝐬𝐢𝐜🧊.
+💥𝐈 𝐚𝐦💿𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭🍷𝐇𝐢𝐠𝐡👅 𝐐𝐮𝐚𝐥𝐢𝐭𝐲💫
+🍒𝐍𝐨🥀𝐋𝐚𝐠💋𝐕𝐂🥃𝐌𝐮𝐬𝐢𝐜🎶𝐏𝐥𝐚𝐲𝐞𝐫🦋
+🍒𝐀𝐧𝐝🍷𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭🍷 𝐁𝐨𝐭.🚩
+💞 𝐉𝐮𝐬𝐭✨𝐀𝐝𝐝🍷𝐌𝐞🍒 »𝐓𝐨✨𝐘𝐨𝐮𝐫❣️𝐆𝐫𝐨𝐮𝐩💯 
+🍷𝐀𝐧𝐝🕊️𝐄𝐧𝐣𝐨𝐲 🦋𝐒𝐮𝐩𝐞𝐫🍎𝐐𝐮𝐚𝐥𝐢𝐭𝐲🍺❥︎𝐌𝐮𝐬𝐢𝐜🧊.
 ┏━━━━━━━━━━━━━━━━━┓
-┣★𝐎𝐖𝐍𝐄𝐑🍒: [🔥︻┻┳═सरकार🔥](https://t.me/llll_SARKAR_llll)
-┣★𝐔𝐏𝐃𝐀𝐓𝐄🍒»: [𝐉𝐎𝐈𝐍🍒](https://t.me/TKS_JOIN)
-┣★𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🍒]»:[𝐀𝐀𝐎 𝐌𝐎𝐈 𝐋𝐎𝐕𝐄🍒](https://t.me/TKS_CHAT_OFFICIAL)
-┣★𝐍𝐀𝐌𝐄 𝐁𝐈𝐎🍒» :[𝐒𝐓𝐘𝐋𝐄 𝐍𝐀𝐌𝐄✨](https://t.me/NAME_STYLE_TG)
+┣★𝐎𝐖𝐍𝐄𝐑🍒 [🔥︻┻┳═सरकार🔥](https://t.me/llll_SARKAR_llll)
+┣★𝐔𝐏𝐃𝐀𝐓𝐄🍒 [𝐉𝐎𝐈𝐍](https://t.me/TKS_JOIN)
+┣★𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🍒 [𝐀𝐀𝐎 𝐌𝐎𝐈 𝐋𝐎𝐕𝐄](https://t.me/TKS_CHAT_OFFICIAL)
+┣★𝐍𝐀𝐌𝐄 𝐁𝐈𝐎🍒 [𝐒𝐓𝐘𝐋𝐄 𝐍𝐀𝐌𝐄✨](https://t.me/NAME_STYLE_TG)
 ┗━━━━━━━━━━━━━━━━━┛
 ☆..................🍷𝐏𝐎𝐖𝐄𝐑🍷...................☆ 
 """
@@ -242,11 +243,11 @@ def start(update: Update, context: CallbackContext):
             lol = update.effective_message.reply_text(
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
-            time.sleep(0.30)
-            lol.edit_text("🍒🇮𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️.")
-            time.sleep(0.30)
-            lol.edit_text("🍒🇮 𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️..")
             time.sleep(0.40)
+            lol.edit_text("🍒🇮𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️.")
+            time.sleep(0.40)
+            lol.edit_text("🍒🇮 𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️..")
+            time.sleep(0.50)
             lol.edit_text("🍒𝐒𝐀𝐑𝐊𝐀𝐑 𝐁𝐎𝐓 𝐎𝐍🍒... ")
             time.sleep(0.4)
             lol.delete()
