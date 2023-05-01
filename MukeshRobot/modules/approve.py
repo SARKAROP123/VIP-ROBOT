@@ -210,7 +210,7 @@ sᴏᴍᴇᴛɪᴍᴇs, ʏᴏᴜ ᴍɪɢʜᴛ ᴛʀᴜsᴛ ᴀ ᴜsᴇʀ ɴᴏ�
 ❍ /approved *:* ʟɪsᴛ ᴀʟʟ ᴀᴘᴘʀᴏᴠᴇᴅ ᴜsᴇʀs.
 ❍ /unapproveall *:* ᴜɴᴀᴘᴘʀᴏᴠᴇ *ᴀʟʟ* ᴜsᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ. ᴛʜɪs ᴄᴀɴɴᴏᴛ ʙᴇ ᴜɴᴅᴏɴᴇ.
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)............☆
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)............☆
 """
 
 APPROVE = DisableAbleCommandHandler("approve", approve)
