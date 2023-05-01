@@ -94,7 +94,7 @@ PM_START_TEXT = """
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★𝐎𝐖𝐍𝐄𝐑🍒: [🔥︻┻┳═सरकार🔥](https://t.me/llll_SARKAR_llll)
 ┣★𝐔𝐏𝐃𝐀𝐓𝐄🍒»: [𝐉𝐎𝐈𝐍🍒](https://t.me/TKS_JOIN)
-┣★𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🍒» :[𓆩᪵𝗧𝞓𝗥𝗥𝗢𝗡𓆩𝗞𓆪̥ 𝗦𝗛𝗘𝗛𝗔𝗥𓆪‌](https://t.me/TKS_CHAT_OFFICIAL)
+┣★𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🍒]»:[𝐀𝐀𝐎 𝐌𝐎𝐈 𝐋𝐎𝐕𝐄🍒](https://t.me/TKS_CHAT_OFFICIAL)
 ┣★𝐍𝐀𝐌𝐄 𝐁𝐈𝐎🍒» :[𝐒𝐓𝐘𝐋𝐄 𝐍𝐀𝐌𝐄✨](https://t.me/NAME_STYLE_TG)
 ┗━━━━━━━━━━━━━━━━━┛
 ☆..................🍷𝐏𝐎𝐖𝐄𝐑🍷...................☆ 
@@ -239,11 +239,11 @@ def start(update: Update, context: CallbackContext):
             lol = update.effective_message.reply_text(
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
-            time.sleep(0.10)
+            time.sleep(0.20)
             lol.edit_text("🍒🇮𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️.")
-            time.sleep(0.10)
+            time.sleep(0.20)
             lol.edit_text("🍒🇮 𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️..")
-            time.sleep(0.15)
+            time.sleep(0.25)
             lol.edit_text("🍒𝐒𝐀𝐑𝐊𝐀𝐑 𝐁𝐎𝐓 𝐎𝐍🍒... ")
             time.sleep(0.4)
             lol.delete()
