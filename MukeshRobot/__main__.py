@@ -116,8 +116,8 @@ buttons = [
         InlineKeyboardButton(text="💥𝐌𝐔𝐒𝐈𝐂💥", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/TKS_CHAT_OFFICIAL"),
-        InlineKeyboardButton(text="💥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘💥", url=f"https://t.me/TKS_CHAT_OFFICIAL"),
+        InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/Vip_Dark_King"),
+        InlineKeyboardButton(text="💥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘💥", url=f"https://t.me/Vip_Dark_King"),
     ],
     [
         InlineKeyboardButton(text="🍒𝐎𝐖𝐍𝐄𝐑🍒", callback_data="mukesh_"),
