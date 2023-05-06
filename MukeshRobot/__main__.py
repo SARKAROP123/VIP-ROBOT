@@ -86,7 +86,7 @@ PM_START_TEXT = """
 ╚═════════════════❍⊱❁۪۪
       ╔═════ஜ۩۞۩ஜ════╗
 
-      ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗔𝗥𝗞𝗔𝗥♨️
+     ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗛𝗔𝗨𝗥𝗬𝗔♨️
     
       ╚═════ஜ۩۞۩ஜ════╝
 
@@ -96,10 +96,10 @@ PM_START_TEXT = """
 💞 𝐉𝐮𝐬𝐭✨𝐀𝐝𝐝🍷𝐌𝐞🍒 »𝐓𝐨✨𝐘𝐨𝐮𝐫❣️𝐆𝐫𝐨𝐮𝐩💯 
 🍷𝐀𝐧𝐝🕊️𝐄𝐧𝐣𝐨𝐲 🦋𝐒𝐮𝐩𝐞𝐫🍎𝐐𝐮𝐚𝐥𝐢𝐭𝐲🍺❥︎𝐌𝐮𝐬𝐢𝐜🧊.
 ┏━━━━━━━━━━━━━━━━━┓
-┣★𝐎𝐖𝐍𝐄𝐑🍒 [🔥︻┻┳═सरकार🔥](https://t.me/llll_SARKAR_llll)
-┣★𝐔𝐏𝐃𝐀𝐓𝐄🍒 [𝐉𝐎𝐈𝐍](https://t.me/TKS_JOIN)
-┣★𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🍒 [𝐀𝐀𝐎 𝐌𝐎𝐈 𝐋𝐎𝐕𝐄](https://t.me/TKS_CHAT_OFFICIAL)
-┣★𝐍𝐀𝐌𝐄 𝐁𝐈𝐎🍒 [𝐒𝐓𝐘𝐋𝐄 𝐍𝐀𝐌𝐄✨](https://t.me/NAME_STYLE_TG)
+┣★𝐎𝐖𝐍𝐄𝐑🍒 [𝗦𝗛𝗔𝗨𝗥𝗬𝗔](https://t.me/ll_Shaurya_ll)
+┣★𝐔𝐏𝐃𝐀𝐓𝐄🍒 [𝐉𝐎𝐈𝐍](https://t.me/Vip_Dark_King)
+┣★𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🍒 [𝐀𝐀𝐎 𝐌𝐎𝐈 𝐋𝐎𝐕𝐄](https://t.me/Vip_Dark_King)
+┣★𝐍𝐀𝐌𝐄 𝐁𝐈𝐎🍒 [𝐒𝐓𝐘𝐋𝐄 𝐍𝐀𝐌𝐄✨](https://t.me/Best_Name_Styless)
 ┗━━━━━━━━━━━━━━━━━┛
 ☆..................🍷𝐏𝐎𝐖𝐄𝐑🍷...................☆ 
 """
@@ -248,7 +248,7 @@ def start(update: Update, context: CallbackContext):
             time.sleep(0.40)
             lol.edit_text("🍒🇮 𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️..")
             time.sleep(0.50)
-            lol.edit_text("🍒𝐒𝐀𝐑𝐊𝐀𝐑 𝐁𝐎𝐓 𝐎𝐍🍒... ")
+            lol.edit_text("💥𝗦𝗛𝗔𝗨𝗥𝗬𝗔 𝐁𝐎𝐓 𝐎𝐍💥... ")
             time.sleep(0.4)
             lol.delete()
             
@@ -405,14 +405,14 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             "\n➲  ɪ ᴄᴀɴ ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ ᴇᴠᴇɴ ꜱᴇᴛ ᴀ ɢʀᴏᴜᴘ'ꜱ ʀᴜʟᴇꜱ."
             "\n➲  ɪ ᴄᴀɴ ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴜɴᴛɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴꜱ, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇꜰɪɴᴇᴅ ᴀᴄᴛɪᴏɴꜱ ꜱᴜᴄʜ ᴀꜱ ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ."
             "\n➲  ɪ ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ, ʙʟᴀᴄᴋʟɪꜱᴛꜱ, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇꜱ ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅꜱ."
-            "\n\n ☆............𝐁𝐲__🔥︻┻┳═सरकार🔥............☆",
+            "\n\n ☆............𝐁𝐲__🍷𝗦𝗛𝗔𝗨𝗥𝗬𝗔🍷............☆",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/llll_SARKAR_llll"
+                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/ll_Shaurya_ll"
                         ),
                         InlineKeyboardButton(
                             text="🍒𝐉𝐎𝐈𝐍 𝐁𝐀𝐁𝐘🍒", 
