@@ -76,21 +76,24 @@ PM_START_TEX = """
 
 PM_START_TEXT = """ 
 
-👀𝐁𝐀𝐁𝐘 {} , [🖤]({})
+👀𝐁𝐀𝐁𝐘 {} , [💋]({})
+
 🍷𝐇𝐄𝐋𝐋𝐎 𝐁𝐀𝐁𝐘🍷
-┣⪼ {} 💋
-💥𝐈 𝐚𝐦💿𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭🍷𝐇𝐢𝐠𝐡👅𝐐𝐮𝐚𝐥𝐢𝐭𝐲💫
-🍒𝐍𝐨🥀𝐋𝐚𝐠💋𝐕𝐂🥃𝐌𝐮𝐬𝐢𝐜🎶𝐏𝐥𝐚𝐲𝐞𝐫🦋
-🍒𝐀𝐧𝐝🍷𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭🍷 𝐁𝐨𝐭.🚩💞
-𝐀𝐝𝐝🍷𝐌𝐞🍒 »𝐓𝐨✨𝐘𝐨𝐮𝐫❣️𝐆𝐫𝐨𝐮𝐩💯 
-𝐄𝐧𝐣𝐨𝐲 🦋𝐒𝐮𝐩𝐞𝐫🍎𝐐𝐮𝐚𝐥𝐢𝐭𝐲🍺❥︎𝐌𝐮𝐬𝐢𝐜🧊.
+☞︎︎︎ {} 💋
+
+💥𝐈 𝐚𝐦💿𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭👅𝐁𝐨𝐭💫
+💋𝐕𝐂🥃𝐌𝐮𝐬𝐢𝐜🎶𝐏𝐥𝐚𝐲𝐞𝐫🦋
+🍒𝐀𝐧𝐝🍷𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭🍷
+𝐀𝐝𝐝🍷𝐌𝐞🍒✨𝐘𝐨𝐮𝐫❣️𝐆𝐫𝐨𝐮𝐩💯 
+🦋𝐒𝐮𝐩𝐞𝐫🍎𝐐𝐮𝐚𝐥𝐢𝐭𝐲🍺❥︎𝐌𝐮𝐬𝐢𝐜🧊.
+
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★𝐎𝐖𝐍𝐄𝐑🔥 [🇹𝐊𝐒 𝐎𝐖𝐍𝐄𝐑](https://t.me/llll_SARKAR_llll)
 ┣★𝐔𝐏𝐃𝐀𝐓𝐄🔥 [𝐁𝐀𝐁𝐔 𝐒𝐎𝐍𝐀](https://t.me/TKS_JOIN)
 ┣★𝐂𝐎𝐌𝐄 ❤️[🇹𝐊𝐒 𝐆𝐑𝐎𝐔𝐏](https://t.me/+I67bz3RT2cA3ODU1)
 ┣★𝐍𝐀𝐌𝐄 ❤️ [𝐒𝐓𝐘𝐋𝐄 𝐍𝐀𝐌𝐄✨](https://t.me/NAME_STYLE_TG)
 ┗━━━━━━━━━━━━━━━━━┛
-☆..................[🍷𝐏𝐎𝐖𝐄𝐑 𝐁𝐘🇹𝐊𝐒 𝐎𝐖𝐍𝐄𝐑🍷](https://t.me/llll_SARKAR_llll)   ...................☆ 
+☆..........[𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 🇹𝐊𝐒](https://t.me/llll_SARKAR_llll)........☆ 
 """
 
 buttons = [
@@ -232,12 +235,12 @@ def start(update: Update, context: CallbackContext):
             lol = update.effective_message.reply_text(
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
-            time.sleep(0.40)
-            lol.edit_text("🍒🇮𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️.")
-            time.sleep(0.40)
-            lol.edit_text("🍒🇮 𝐋𝐎𝐕𝐄 𝐔 𝐉𝐀𝐀𝐍❣️..")
-            time.sleep(0.50)
-            lol.edit_text("💥𝗦𝗛𝗔𝗨𝗥𝗬𝗔 𝐁𝐎𝐓 𝐎𝐍💥... ")
+            time.sleep(01.10)
+            lol.edit_text("🔥𝐖𝐀𝐈𝐓 𝐁𝐀𝐁𝐘❣️.")
+            time.sleep(01.10)
+            lol.edit_text("💋𝐋𝐎𝐕𝐄 𝐔 𝐁𝐀𝐁𝐘❣️..")
+            time.sleep(01.10)
+            lol.edit_text("💥𝐒𝐀𝐑𝐊𝐀𝐑 𝐁𝐎𝐓 𝐎𝐍💥... ")
             time.sleep(0.4)
             lol.delete()
             
@@ -394,18 +397,18 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             "\n➲  ɪ ᴄᴀɴ ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ ᴇᴠᴇɴ ꜱᴇᴛ ᴀ ɢʀᴏᴜᴘ'ꜱ ʀᴜʟᴇꜱ."
             "\n➲  ɪ ᴄᴀɴ ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴜɴᴛɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴꜱ, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇꜰɪɴᴇᴅ ᴀᴄᴛɪᴏɴꜱ ꜱᴜᴄʜ ᴀꜱ ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ."
             "\n➲  ɪ ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ, ʙʟᴀᴄᴋʟɪꜱᴛꜱ, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇꜱ ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅꜱ."
-            "\n\n ☆............𝐁𝐲__🍷𝗦𝗛𝗔𝗨𝗥𝗬𝗔🍷............☆",
+            "\n\n ☆......[🍷𝐒𝐀𝐑𝐊𝐀𝐑🍷](https://t.me/llll_SARKAR_llll)......☆",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/ll_Shaurya_ll"
+                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/llll_SARKAR_llll"
                         ),
                         InlineKeyboardButton(
                             text="🍒𝐉𝐎𝐈𝐍 𝐁𝐀𝐁𝐘🍒", 
-                            url="https://t.me/TKS_CHAT_OFFICIAL",
+                            url="https://t.me/+I67bz3RT2cA3ODU1",
                         ),
                     ],
                     [
@@ -431,7 +434,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
     if query.data == "Music_":
         query.message.edit_text(
             text=f"""
- **👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n☆............𝙱𝚈 » [🔥︻┻┳═सरकार🔥](https://t.me/lll_SARKAR_lll)............☆ 💞** 
+ **👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 🖤\n\n❤️𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n☆............𝙱𝚈 » [🔥︻┻┳═सरकार🔥](https://t.me/lll_SARKAR_lll)............☆ 💞** 
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -522,7 +525,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)............☆
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -547,7 +550,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /authusers : sʜᴏᴡs ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/lll_SARKAR_lll)........
+☆............𝙱𝚈 » [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)........
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -858,7 +861,7 @@ def get_help(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="♨️𝐎𝐩𝐞𝐧 𝐇𝐞𝐫𝐞♨️",
+                            text="💋𝐎𝐩𝐞𝐧 𝐇𝐞𝐫𝐞💋",
                             callback_data="help_back",
                         )
                     ],
@@ -1056,7 +1059,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != {OWNER_ID} and DONATION_LINK:
             update.effective_message.reply_text(
-                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [VIP BOY](https://t.me/THE_VIP_BOY)"
+                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [SARKAR](https://t.me/llll_SARKAR_llll)"
                 f"\n\nʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]({DONATION_LINK})",
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
