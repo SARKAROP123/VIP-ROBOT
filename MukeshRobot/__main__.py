@@ -79,6 +79,7 @@ PM_START_TEXT = """
 👀𝐁𝐀𝐁𝐘 {} , [💋]({})
 
 🍷𝐇𝐄𝐋𝐋𝐎 𝐁𝐀𝐁𝐘🍷
+
 ☞︎︎︎ {} 💋
 
 💥𝐈 𝐚𝐦💿𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭👅𝐁𝐨𝐭💫
@@ -99,7 +100,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="🔥 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 🔥",
+            text="🔥 𝐀𝐃𝐃 𝐌𝐄 𝐁𝐀𝐁𝐘 🔥",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
@@ -108,8 +109,8 @@ buttons = [
         InlineKeyboardButton(text="🔥𝐌𝐔𝐒𝐈𝐂🔥", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="🔥𝐆𝐑𝐎𝐔𝐏🔥", url=f"https://t.me/Vip_Dark_King"),
-        InlineKeyboardButton(text="🔥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🔥", url=f"https://t.me/Vip_Dark_King"),
+        InlineKeyboardButton(text="🔥𝐆𝐑𝐎𝐔𝐏🔥", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
+        InlineKeyboardButton(text="🔥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🔥", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
     ],
     [
         InlineKeyboardButton(text="👑𝐎𝐖𝐍𝐄𝐑👑", callback_data="mukesh_"),
