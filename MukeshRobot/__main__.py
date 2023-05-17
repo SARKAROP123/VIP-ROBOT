@@ -82,38 +82,40 @@ PM_START_TEXT = """
 
 ☞︎︎︎ {} 💋
 
-💥𝐈 𝐚𝐦💿𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭👅𝐁𝐨𝐭💫
-💋𝐕𝐂🥃𝐌𝐮𝐬𝐢𝐜🎶𝐏𝐥𝐚𝐲𝐞𝐫🦋
-🍒𝐀𝐧𝐝🍷𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭🍷
-𝐀𝐝𝐝🍷𝐌𝐞🍒✨𝐘𝐨𝐮𝐫❣️𝐆𝐫𝐨𝐮𝐩💯 
-🦋𝐒𝐮𝐩𝐞𝐫🍎𝐐𝐮𝐚𝐥𝐢𝐭𝐲🍺❥︎𝐌𝐮𝐬𝐢𝐜🧊.
+❤️𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝
+𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
+𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐀𝐧𝐝 𝐆𝐫𝐨𝐮𝐩𝐬 ✨ ...
+
+💐 𝐅𝐞𝐞𝐥 𝐅𝐫𝐞𝐞 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐢𝐧 𝐘𝐨𝐮𝐫
+𝐆𝐫𝐨𝐮𝐩, 🌺 𝐀𝐧𝐝 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 𝐇𝐢𝐠𝐡
+𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 🌷 ..
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★𝐎𝐖𝐍𝐄𝐑🔥 [🇹𝐊𝐒 𝐎𝐖𝐍𝐄𝐑](https://t.me/llll_SARKAR_llll)
-┣★𝐔𝐏𝐃𝐀𝐓𝐄🔥 [𝐁𝐀𝐁𝐔 𝐒𝐎𝐍𝐀](https://t.me/TKS_JOIN)
-┣★𝐂𝐎𝐌𝐄 ❤️[🇹𝐊𝐒 𝐆𝐑𝐎𝐔𝐏](https://t.me/+I67bz3RT2cA3ODU1)
-┣★𝐍𝐀𝐌𝐄 ❤️ [𝐒𝐓𝐘𝐋𝐄 𝐍𝐀𝐌𝐄✨](https://t.me/NAME_STYLE_TG)
+┣★𝐎𝐖𝐍𝐄𝐑 [🇹𝐊𝐒 𝐎𝐖𝐍𝐄𝐑](https://t.me/ll_SARKAR_OP_ll)
+┣★𝐔𝐏𝐃𝐀𝐓𝐄 [𝐁𝐀𝐁𝐔 𝐒𝐎𝐍𝐀](https://t.me/TKS_JOIN)
+┣★𝐂𝐎𝐌𝐄 [🇹𝐊𝐒 𝐆𝐑𝐎𝐔𝐏](https://t.me/+I67bz3RT2cA3ODU1)
+┣★𝐍𝐀𝐌𝐄 [𝐒𝐓𝐘𝐋𝐄 𝐍𝐀𝐌𝐄✨](https://t.me/TG_NAME_STYLE)
 ┗━━━━━━━━━━━━━━━━━┛
-☆..........[𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 🇹𝐊𝐒](https://t.me/llll_SARKAR_llll)........☆ 
+☆..........[𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 🇹𝐊𝐒](https://t.me/ll_SARKAR_OP_ll)........☆ 
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🔥 𝐀𝐃𝐃 𝐌𝐄 𝐁𝐀𝐁𝐘 🔥",
+            text="⟨💥𝐀𝐃𝐃 𝐌𝐄 𝐁𝐀𝐁𝐘💥⟩",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🔥𝐇𝐄𝐋𝐏🔥", callback_data="help_back"),
-        InlineKeyboardButton(text="🔥𝐌𝐔𝐒𝐈𝐂🔥", callback_data="Music_"),
+        InlineKeyboardButton(text="⟨💥𝐇𝐄𝐋𝐏💥⟩", callback_data="help_back"),
+        InlineKeyboardButton(text="⟨💥𝐌𝐔𝐒𝐈𝐂💥⟩", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="🔥𝐆𝐑𝐎𝐔𝐏🔥", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
-        InlineKeyboardButton(text="🔥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘🔥", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
+        InlineKeyboardButton(text="⟨💥𝐆𝐑𝐎𝐔𝐏💥⟩", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
+        InlineKeyboardButton(text="⟨💥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘💥⟩", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
     ],
     [
-        InlineKeyboardButton(text="👑𝐎𝐖𝐍𝐄𝐑👑", callback_data="mukesh_"),
+        InlineKeyboardButton(text="⟨💥𝐎𝐖𝐍𝐄𝐑💥⟩", callback_data="mukesh_"),
     ],
 ]
 
@@ -398,14 +400,14 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             "\n➲  ɪ ᴄᴀɴ ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ ᴇᴠᴇɴ ꜱᴇᴛ ᴀ ɢʀᴏᴜᴘ'ꜱ ʀᴜʟᴇꜱ."
             "\n➲  ɪ ᴄᴀɴ ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴜɴᴛɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴꜱ, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇꜰɪɴᴇᴅ ᴀᴄᴛɪᴏɴꜱ ꜱᴜᴄʜ ᴀꜱ ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ."
             "\n➲  ɪ ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ, ʙʟᴀᴄᴋʟɪꜱᴛꜱ, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇꜱ ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅꜱ."
-            "\n\n ☆......[🍷𝐒𝐀𝐑𝐊𝐀𝐑🍷](https://t.me/llll_SARKAR_llll)......☆",
+            "\n\n ☆......[🍷𝐒𝐀𝐑𝐊𝐀𝐑🍷](https://t.me/ll_SARKAR_OP_ll)......☆",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/llll_SARKAR_llll"
+                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/ll_SARKAR_OP_ll"
                         ),
                         InlineKeyboardButton(
                             text="🍒𝐉𝐎𝐈𝐍 𝐁𝐀𝐁𝐘🍒", 
@@ -413,7 +415,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="mukesh_back"),
+                        InlineKeyboardButton(text="✯𝐁𝐀𝐂𝐊✯", callback_data="mukesh_back"),
                     ],
                 ]
             ),
@@ -1115,7 +1117,7 @@ def main():
 
 ╔═════ஜ۩۞۩ஜ═════╗
 
- ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/llll_SARKAR_llll)♨️
+ ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐒𝐀𝐑𝐊𝐀𝐑](https://t.me/ll_SARKAR_OP_ll)♨️
   
 ╚═════ஜ۩۞۩ஜ═════╝
 """,
