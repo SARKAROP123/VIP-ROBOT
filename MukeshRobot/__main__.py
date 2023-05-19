@@ -102,20 +102,20 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="⟨💥𝐀𝐃𝐃 𝐌𝐄 𝐁𝐀𝐁𝐘💥⟩",
+            text="❰ 💥𝐀𝐃𝐃 𝐌𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏💥 ❱",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="⟨💥𝐇𝐄𝐋𝐏💥⟩", callback_data="help_back"),
-        InlineKeyboardButton(text="⟨💥𝐌𝐔𝐒𝐈𝐂💥⟩", callback_data="Music_"),
+        InlineKeyboardButton(text="❰ 💥𝐇𝐄𝐋𝐏💥 ❱", callback_data="help_back"),
+        InlineKeyboardButton(text="❰ 💥𝐌𝐔𝐒𝐈𝐂💥 ❱", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="⟨💥𝐆𝐑𝐎𝐔𝐏💥⟩", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
-        InlineKeyboardButton(text="⟨💥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘💥⟩", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
+        InlineKeyboardButton(text="❰ 💥𝐆𝐑𝐎𝐔𝐏💥 ❱", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
+        InlineKeyboardButton(text="❰ 💥𝐂𝐎𝐌𝐄 𝐁𝐀𝐁𝐘💥 ❱", url=f"https://t.me/+I67bz3RT2cA3ODU1"),
     ],
     [
-        InlineKeyboardButton(text="⟨💥𝐎𝐖𝐍𝐄𝐑💥⟩", callback_data="mukesh_"),
+        InlineKeyboardButton(text="❰ 💥𝐎𝐖𝐍𝐄𝐑💥 ❱", callback_data="mukesh_"),
     ],
 ]
 
@@ -239,11 +239,11 @@ def start(update: Update, context: CallbackContext):
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(01.10)
-            lol.edit_text("🔥𝐖𝐀𝐈𝐓 𝐁𝐀𝐁𝐘❣️.")
+            lol.edit_text("❰ 🔥𝐖𝐀𝐈𝐓 𝐁𝐀𝐁𝐘❣️ ❱.")
             time.sleep(01.10)
-            lol.edit_text("💋𝐋𝐎𝐕𝐄 𝐔 𝐁𝐀𝐁𝐘❣️..")
+            lol.edit_text("❰ 💋𝐋𝐎𝐕𝐄 𝐔 𝐁𝐀𝐁𝐘❣️ ❱..")
             time.sleep(01.10)
-            lol.edit_text("💥𝐒𝐀𝐑𝐊𝐀𝐑 𝐁𝐎𝐓 𝐎𝐍💥... ")
+            lol.edit_text("❰ 💥𝐒𝐀𝐑𝐊𝐀𝐑 𝐁𝐎𝐓 𝐎𝐍💥 ❱... ")
             time.sleep(0.4)
             lol.delete()
             
